@@ -23,6 +23,7 @@ from datetime import datetime, timedelta
 import re
 import locale
 
+
 # Setting locale to the 'local' value
 locale.setlocale(locale.LC_ALL, '')
 
